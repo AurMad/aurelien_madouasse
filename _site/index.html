@@ -40,6 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -105,19 +106,19 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="https://bsky.app/profile/aurelien-madouasse.bsky.social" rel="me"> 
-<span class="menu-text">{{&lt; iconify fa6-brands bluesky 1.1em 'Bluesky' &gt;}}</span></a>
+<span class="menu-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" style="font-size: 1.1em;" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Bluesky"></iconify-icon></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://scholar.google.com/citations?user=sr4gTeMAAAAJ&amp;hl=en" rel="me"> 
-<span class="menu-text">{{&lt; iconify fa6-brands google-scholar 1.1em 'Scholar' &gt;}}</span></a>
+<span class="menu-text"><iconify-icon role="img" inline="" icon="fa6-brands:google-scholar" style="font-size: 1.1em;" aria-label="Icon google-scholar from fa6-brands Iconify.design set." title="Scholar"></iconify-icon></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://github.com/AurMad" rel="me"> 
-<span class="menu-text">{{&lt; iconify bi github 1.1em 'GitHub' &gt;}}</span></a>
+<span class="menu-text"><iconify-icon role="img" inline="" icon="bi:github" style="font-size: 1.1em;" aria-label="Icon github from bi Iconify.design set." title="GitHub"></iconify-icon></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://www.linkedin.com/in/aur%C3%A9lien-madouasse-83b577142/" rel="me"> 
-<span class="menu-text">{{&lt; iconify bi linkedin 1.1em 'LinkedIn' &gt;}}</span></a>
+<span class="menu-text"><iconify-icon role="img" inline="" icon="bi:linkedin" style="font-size: 1.1em;" aria-label="Icon linkedin from bi Iconify.design set." title="LinkedIn"></iconify-icon></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -258,7 +259,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.aurelien_madouasse\.fr");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
