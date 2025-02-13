@@ -9,7 +9,6 @@ author-meta: "Aurélien Madouasse"
 website:
   title: "Aurélien Madouasse"
   description: "Maître de conférences à Oniris VetAgroBio Nantes"
-  site-url: "https://www.aurelien_madouasse.fr"
   repo-url: "https://github.com/AurMad/aurelien_madouasse"
   navbar:
     left: 
