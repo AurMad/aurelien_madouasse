@@ -1,1 +1,1 @@
-Sitemap: https://www.aurelien_madouasse.fr/sitemap.xml
+Sitemap: https://AurMad.github.io/aurelien_madouasse/sitemap.xml
