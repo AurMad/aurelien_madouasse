@@ -1,0 +1,24 @@
+---
+title: "Présentation"
+format: 
+  html:
+    page-layout: custom
+---
+
+::: {.grid}
+
+::: {.g-col-2}
+![](/images/AMadouasse2017.jpg){width=100% }
+:::
+
+::: {.g-col-5}
+Je suis maître de conférences en zootechnie bovine, médecine de populations et épidémiologie à [Oniris VetAgroBio Nantes](https://www.oniris-nantes.fr/). J'ai une formation de vétérinaire (ENVN, 2006) complétée  par une thèse de doctorat en épidémiologie quantitative ([Nottingham](https://www.nottingham.ac.uk/vet/), 2009). J'ai obtenu mon Habilitation à Diriger des Recherches en juin 2023.
+
+Pour mes activités d'enseignement, je suis rattaché au département santé des animaux d'élevage et santé publique d'Oniris.
+
+Pour mes activités de recherche, je suis affilié à l'unité mixte de recherche [BIOEPAR](https://bioepar.angers-nantes.hub.inrae.fr/), rattachée à Oniris et à [Inrae](https://www.inrae.fr/).
+
+Depuis septembre 2024, je suis [référent à l'intégrité scientifique](https://www.ofis-france.fr/quest-ce-que-lintegrite-scientifique/) à Oniris.
+:::
+
+:::

@@ -1,0 +1,41 @@
+project:
+  type: website
+
+author-meta: "Aurélien Madouasse"
+
+website:
+  title: "Aurélien Madouasse"
+  description: "Maître de conférences à Oniris VetAgroBio Nantes"
+  site-url: "https://www.aurelien_madouasse.fr"
+  repo-url: "https://github.com/AurMad/aurelien_madouasse"
+  navbar:
+    left: 
+      - text: Accueil
+        href: index.qmd
+      - text: Enseignement
+        href: enseignement/enseignement.qmd
+      - text: Recherche
+        href: recherche/recherche.qmd
+      # - text: Blog
+      #   href: blog/blog.qmd
+    right:
+      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
+        href: https://bsky.app/profile/aurelien-madouasse.bsky.social
+        rel: me
+      - text: "{{< iconify fa6-brands google-scholar size=1.1em title='Scholar'>}}"
+        href: https://scholar.google.com/citations?user=sr4gTeMAAAAJ&hl=en
+        rel: me
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+        href: https://github.com/AurMad
+        rel: me
+      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/aur%C3%A9lien-madouasse-83b577142/
+        rel: me
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+    lang: fr
+
