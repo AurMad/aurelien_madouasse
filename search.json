@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "enseignement/enseignement.html",
+    "href": "enseignement/enseignement.html",
+    "title": "Enseignement",
+    "section": "",
+    "text": "Enseignement à destination des étudiants vétérinaires de 5\\(^{ème}\\) année.\n\nCours introductif\nPolycopié\nDiaporama de TD"
+  },
+  {
+    "objectID": "enseignement/enseignement.html#médecine-factuelle",
+    "href": "enseignement/enseignement.html#médecine-factuelle",
+    "title": "Enseignement",
+    "section": "",
+    "text": "Enseignement à destination des étudiants vétérinaires de 5\\(^{ème}\\) année.\n\nCours introductif\nPolycopié\nDiaporama de TD"
+  },
+  {
+    "objectID": "enseignement/enseignement.html#causalité",
+    "href": "enseignement/enseignement.html#causalité",
+    "title": "Enseignement",
+    "section": "Causalité",
+    "text": "Causalité\n\nCours introductif (in English), à destination des étudiants du M2 One Health Emerge"
+  },
+  {
+    "objectID": "enseignement/enseignement.html#surveillance-épidémiologique",
+    "href": "enseignement/enseignement.html#surveillance-épidémiologique",
+    "title": "Enseignement",
+    "section": "Surveillance épidémiologique",
+    "text": "Surveillance épidémiologique\n\nCours introductif (in English), à destination des étudiants du M2 One Health Emerge\nSurveillance syndromique : présentation préparée pour l’association français de zootechnie."
+  },
+  {
     "objectID": "recherche/recherche.html",
     "href": "recherche/recherche.html",
     "title": "Recherche",
@@ -40,34 +68,6 @@
     "title": "Recherche",
     "section": "Habilitation à diriger des recherches",
     "text": "Habilitation à diriger des recherches\nMon manuscrit d’HDR et la présentation qui l’accompagne fournissent une bonne vue d’ensemble de mes activités de recherche."
-  },
-  {
-    "objectID": "enseignement/enseignement.html",
-    "href": "enseignement/enseignement.html",
-    "title": "Enseignement",
-    "section": "",
-    "text": "Enseignement à destination des étudiants vétérinaires de 5\\(^{ème}\\) année.\n\nCours introductif\nPolycopié\nDiaporama de TD"
-  },
-  {
-    "objectID": "enseignement/enseignement.html#médecine-factuelle",
-    "href": "enseignement/enseignement.html#médecine-factuelle",
-    "title": "Enseignement",
-    "section": "",
-    "text": "Enseignement à destination des étudiants vétérinaires de 5\\(^{ème}\\) année.\n\nCours introductif\nPolycopié\nDiaporama de TD"
-  },
-  {
-    "objectID": "enseignement/enseignement.html#causalité",
-    "href": "enseignement/enseignement.html#causalité",
-    "title": "Enseignement",
-    "section": "Causalité",
-    "text": "Causalité\n\nCours introductif (in English), à destination des étudiants du M2 One Health Emerge"
-  },
-  {
-    "objectID": "enseignement/enseignement.html#surveillance-épidémiologique",
-    "href": "enseignement/enseignement.html#surveillance-épidémiologique",
-    "title": "Enseignement",
-    "section": "Surveillance épidémiologique",
-    "text": "Surveillance épidémiologique\n\nCours introductif (in English), à destination des étudiants du M2 One Health Emerge\nSurveillance syndromique : présentation préparée pour l’association français de zootechnie."
   },
   {
     "objectID": "blog/blog.html",
