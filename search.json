@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "recherche/recherche.html",
+    "href": "recherche/recherche.html",
+    "title": "Recherche",
+    "section": "",
+    "text": "Voir la liste de mes publications sur mon profil Google Scholar."
+  },
+  {
+    "objectID": "recherche/recherche.html#publications",
+    "href": "recherche/recherche.html#publications",
+    "title": "Recherche",
+    "section": "",
+    "text": "Voir la liste de mes publications sur mon profil Google Scholar."
+  },
+  {
+    "objectID": "recherche/recherche.html#projets-en-cours",
+    "href": "recherche/recherche.html#projets-en-cours",
+    "title": "Recherche",
+    "section": "Projets en cours",
+    "text": "Projets en cours\n\nProjet WAIT4 : Intelligence artificielle et nouvelles technologies pour évaluer des indicateurs pertinents de bien-être pour des animaux confrontés aux défis de la transition agroécologique. Financement PEPR (~3M €). Participation au pilotage scientifique du projet.\nProjet PACE-COW : Développement de méthodes de caractérisation du comportement et des interactions sociales des bovins pour l’évaluation de la santé et du bien-être dans le cadre de la transition agroécologique. Thèse de Joseph Allyndrée, financée par le projet WAIT4. Co-encadrement avec Antoine Cornuéjols et Christine Martin.\nProjet Dynam’Heat : Dynamique et impact du stress thermique sur le comportement, les boiteries et les performances zootechniques des vaches laitières dans la Grand Ouest. Thèse d’Anne-Cécile Toulemonde. Directeur de thèse : Raphaël Guatteo. Co-encadrement avec Yannick Le Cozler.\nProjet ALONGE : Améliorer la longévité des vaches laitières par une gestion raisonnée et choisie des réformes et du renouvellement. Financement CASDAR."
+  },
+  {
+    "objectID": "recherche/recherche.html#projets-terminés",
+    "href": "recherche/recherche.html#projets-terminés",
+    "title": "Recherche",
+    "section": "Projets terminés",
+    "text": "Projets terminés\n\nProjet STOC free (2017-2020) : Méthodes pour quantifier la probabilité d’absence de maladies infectieuses non réglementées. Application à l’infection par le virus de la diarrhée virale bovine. Projet financé par l’EFSA. Co-responsable du WP1 sur le développement de méthodes.\nRéseau COST SOUND Control : Surveillance des maladies non réglementées des bovins dans l’Union Européenne. Exploration, promotion, développement de méthodes visant à la standardisation des résultats plutôt que celle des moyens mis en oeuvre. Responsable du WP3 sur les méthodes.\nRéseau COST Harmony : Nouveaux outils pour l’évaluation des tests et l’estimation de la prévalence des maladies. Responsable du WP4 sur l’évaluation de la probabilité d’absence d’une maladie."
+  },
+  {
+    "objectID": "recherche/recherche.html#packages-r",
+    "href": "recherche/recherche.html#packages-r",
+    "title": "Recherche",
+    "section": "Packages R",
+    "text": "Packages R\n\nPackage STOC free. Modèle de Markov caché pour l’estimation d’une probabilité d’infection à partir de résultats de tests longitudinaux obtenus dans le cadre d’un programme de surveillance. Publication décrivant le modèle.\nbetadistapp : Application Shiny pour la détermination interactive des paramètres d’une distribution Beta. Intérêt pour la définition de distributions a priori en inférence bayésienne.\nlogitnormdistapp : Application Shiny pour la détermination interactive des paramètres d’une distribution normale sur une échelle logit. Intérêt pour la définition de distributions a priori en inférence bayésienne."
+  },
+  {
+    "objectID": "recherche/recherche.html#habilitation-à-diriger-des-recherches",
+    "href": "recherche/recherche.html#habilitation-à-diriger-des-recherches",
+    "title": "Recherche",
+    "section": "Habilitation à diriger des recherches",
+    "text": "Habilitation à diriger des recherches\nMon manuscrit d’HDR et la présentation qui l’accompagne fournissent une bonne vue d’ensemble de mes activités de recherche."
+  },
+  {
+    "objectID": "enseignement/enseignement.html",
+    "href": "enseignement/enseignement.html",
+    "title": "Enseignement",
+    "section": "",
+    "text": "Enseignement à destination des étudiants vétérinaires de 5\\(^{ème}\\) année.\n\nCours introductif\nPolycopié\nDiaporama de TD"
+  },
+  {
+    "objectID": "enseignement/enseignement.html#médecine-factuelle",
+    "href": "enseignement/enseignement.html#médecine-factuelle",
+    "title": "Enseignement",
+    "section": "",
+    "text": "Enseignement à destination des étudiants vétérinaires de 5\\(^{ème}\\) année.\n\nCours introductif\nPolycopié\nDiaporama de TD"
+  },
+  {
+    "objectID": "enseignement/enseignement.html#causalité",
+    "href": "enseignement/enseignement.html#causalité",
+    "title": "Enseignement",
+    "section": "Causalité",
+    "text": "Causalité\n\nCours introductif (in English), à destination des étudiants du M2 One Health Emerge"
+  },
+  {
+    "objectID": "enseignement/enseignement.html#surveillance-épidémiologique",
+    "href": "enseignement/enseignement.html#surveillance-épidémiologique",
+    "title": "Enseignement",
+    "section": "Surveillance épidémiologique",
+    "text": "Surveillance épidémiologique\n\nCours introductif (in English), à destination des étudiants du M2 One Health Emerge\nSurveillance syndromique : présentation préparée pour l’association français de zootechnie."
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "A venir\n\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  }
+]
