@@ -6,7 +6,7 @@ title: "Enseignement"
 
 Enseignement à destination des étudiants vétérinaires de 5$^{ème}$ année.
 
-- [Cours introductif](https://aurmad.github.io/EBVM_motiv_CM/EBVM_motiv_dia.html/)
+- [Cours introductif](https://aurmad.github.io/EBVM_motiv_CM/EBVM_motiv_dia.html)
 - [Polycopié](https://aurmad.github.io/medecine_factuelle/)
 - [Diaporama de TD](https://aurmad.github.io/td_EBVM/td_EBVM.html)
 
