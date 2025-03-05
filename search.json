@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "A venir\n\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
     "objectID": "enseignement/enseignement.html",
     "href": "enseignement/enseignement.html",
     "title": "Enseignement",
@@ -68,12 +75,5 @@
     "title": "Recherche",
     "section": "Habilitation à diriger des recherches",
     "text": "Habilitation à diriger des recherches\nMon manuscrit d’HDR et la présentation qui l’accompagne fournissent une bonne vue d’ensemble de mes activités de recherche."
-  },
-  {
-    "objectID": "blog/blog.html",
-    "href": "blog/blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "A venir\n\n\n\n\n\n\n\n\n\nAucun article correspondant"
   }
 ]
