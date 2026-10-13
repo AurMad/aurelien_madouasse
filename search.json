@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "blog/blog.html",
-    "href": "blog/blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "A venir\n\n\n\n\n\n\n\n\n\nAucun article correspondant"
-  },
-  {
-    "objectID": "enseignement/enseignement.html",
-    "href": "enseignement/enseignement.html",
-    "title": "Enseignement",
-    "section": "",
-    "text": "Enseignement à destination des étudiants vétérinaires de 5\\(^{ème}\\) année.\n\nCours introductif\nPolycopié\nDiaporama de TD"
-  },
-  {
-    "objectID": "enseignement/enseignement.html#médecine-factuelle",
-    "href": "enseignement/enseignement.html#médecine-factuelle",
-    "title": "Enseignement",
-    "section": "",
-    "text": "Enseignement à destination des étudiants vétérinaires de 5\\(^{ème}\\) année.\n\nCours introductif\nPolycopié\nDiaporama de TD"
-  },
-  {
-    "objectID": "enseignement/enseignement.html#causalité",
-    "href": "enseignement/enseignement.html#causalité",
-    "title": "Enseignement",
-    "section": "Causalité",
-    "text": "Causalité\n\nCours introductif (in English), à destination des étudiants du M2 One Health Emerge"
-  },
-  {
-    "objectID": "enseignement/enseignement.html#surveillance-épidémiologique",
-    "href": "enseignement/enseignement.html#surveillance-épidémiologique",
-    "title": "Enseignement",
-    "section": "Surveillance épidémiologique",
-    "text": "Surveillance épidémiologique\n\nCours introductif (in English), à destination des étudiants du M2 One Health Emerge\nSurveillance syndromique : présentation préparée pour l’association français de zootechnie."
-  },
-  {
     "objectID": "recherche/recherche.html",
     "href": "recherche/recherche.html",
     "title": "Recherche",
@@ -75,5 +40,82 @@
     "title": "Recherche",
     "section": "Habilitation à diriger des recherches",
     "text": "Habilitation à diriger des recherches\nMon manuscrit d’HDR et la présentation qui l’accompagne fournissent une bonne vue d’ensemble de mes activités de recherche."
+  },
+  {
+    "objectID": "enseignement/enseignement.html",
+    "href": "enseignement/enseignement.html",
+    "title": "Enseignement",
+    "section": "",
+    "text": "Enseignement à destination des étudiants vétérinaires de 5\\(^{ème}\\) année.\n\nCours introductif\nPolycopié\nDiaporama de TD"
+  },
+  {
+    "objectID": "enseignement/enseignement.html#médecine-factuelle",
+    "href": "enseignement/enseignement.html#médecine-factuelle",
+    "title": "Enseignement",
+    "section": "",
+    "text": "Enseignement à destination des étudiants vétérinaires de 5\\(^{ème}\\) année.\n\nCours introductif\nPolycopié\nDiaporama de TD"
+  },
+  {
+    "objectID": "enseignement/enseignement.html#causalité",
+    "href": "enseignement/enseignement.html#causalité",
+    "title": "Enseignement",
+    "section": "Causalité",
+    "text": "Causalité\n\nCours introductif (in English), à destination des étudiants du M2 One Health Emerge"
+  },
+  {
+    "objectID": "enseignement/enseignement.html#surveillance-épidémiologique",
+    "href": "enseignement/enseignement.html#surveillance-épidémiologique",
+    "title": "Enseignement",
+    "section": "Surveillance épidémiologique",
+    "text": "Surveillance épidémiologique\n\nCours introductif (in English), à destination des étudiants du M2 One Health Emerge\nSurveillance syndromique : présentation préparée pour l’association français de zootechnie."
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Ce dossier contient différents projets de notes et publications à rédiger ou en cours de rédaction.\n\n\n\n\n\n\n\n\n\n\n\n\nL’autorat dans les publications scientifiques\n\n\n\nintégrité scientifique\n\n\n\n\n\n\n\nAurélien\n\n\n13 oct. 2026\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "blog/posts/autorat/index.html",
+    "href": "blog/posts/autorat/index.html",
+    "title": "L’autorat dans les publications scientifiques",
+    "section": "",
+    "text": "Être auteur d’un article scientifique constitue à la fois la reconnaissance d’un travail accompli, un élément essentiel de la carrière académique et une manière de contribuer à la production des connaissances. Les publications jouent un rôle central dans l’évaluation des chercheurs, l’obtention de financements, le recrutement ou encore les promotions. La question de l’autorat dépasse donc largement une simple formalité administrative : elle touche à la reconnaissance du travail scientifique, à la responsabilité des résultats publiés et à l’intégrité de la recherche.\nLes articles scientifiques comportent aujourd’hui le plus souvent plusieurs auteurs, parfois plusieurs dizaines voire plusieurs centaines dans certaines disciplines. L’ordre dans lequel ces auteurs apparaissent dépend de conventions qui varient selon les champs scientifiques. En sciences de la vie, les places de premier et de dernier auteur ont généralement une importance particulière. Le premier auteur est habituellement la personne ayant réalisé la plus grande partie du travail expérimental ou analytique et ayant rédigé la première version du manuscrit. Le dernier auteur correspond souvent au responsable scientifique du projet ou à la personne ayant supervisé les travaux et obtenu les financements. Entre ces deux positions, l’ordre des autres auteurs reflète en principe l’importance relative des contributions, même si les usages sont très variables.\nDans d’autres disciplines, notamment en mathématiques ou en physique théorique, l’ordre alphabétique peut être privilégié. Certaines grandes collaborations utilisent même des listes d’auteurs extrêmement longues où les contributions individuelles sont difficiles à identifier. Ces différences disciplinaires expliquent en partie pourquoi les discussions autour de l’autorat peuvent être complexes.\nLes pratiques d’inclusion des co-auteurs varient non seulement entre disciplines, mais aussi entre institutions, équipes ou projets. Les problèmes liés à l’autorat constituent une source fréquente de tensions, de frustrations et parfois de conflits ouverts dans les laboratoires. Ces conflits peuvent concerner l’inclusion ou l’exclusion de certaines personnes, l’ordre des auteurs, ou encore la reconnaissance du travail technique, statistique ou méthodologique.\nLes objectifs de ce document sont de faire le point sur les principales problématiques liées à l’autorat, de présenter les règles et recommandations existantes, et de proposer quelques principes pratiques permettant de limiter les conflits et les pratiques problématiques."
+  },
+  {
+    "objectID": "blog/posts/autorat/index.html#les-contributeurs-invisibles",
+    "href": "blog/posts/autorat/index.html#les-contributeurs-invisibles",
+    "title": "L’autorat dans les publications scientifiques",
+    "section": "Les contributeurs invisibles",
+    "text": "Les contributeurs invisibles\n\nLes auteurs omis injustement\nUn motif fréquent de frustration et de conflit dans les laboratoires est la non-inclusion de contributeurs importants dans la liste des auteurs d’une publication. Cette situation peut résulter d’un désaccord sur l’importance réelle de la contribution, mais aussi d’un manque de discussion explicite au début du projet.\nLes personnes concernées sont souvent des doctorants, post-doctorants, ingénieurs, biostatisticiens ou collaborateurs techniques ayant participé de manière substantielle à la collecte, l’analyse ou l’interprétation des données. Les situations deviennent particulièrement problématiques lorsque les règles implicites de fonctionnement diffèrent entre les membres d’une même équipe ou entre partenaires de collaborations multicentriques.\nL’absence de clarification précoce des règles d’autorat est un facteur majeur de conflits. Discuter des critères d’inclusion et de l’ordre des auteurs dès le début d’un projet ne garantit pas l’absence de désaccord, mais permet souvent de limiter les incompréhensions ultérieures.\n\n\nLes auteurs fantômes\nLe terme d’« auteur fantôme » (ghost author) désigne généralement une personne ayant contribué de manière importante à un article sans être mentionnée comme auteur.\nCertaines affaires médiatisées ont concerné l’industrie pharmaceutique, notamment aux États-Unis, où des procédures judiciaires ont conduit à la divulgation de correspondances internes. Ces documents ont montré l’existence de stratégies de rédaction visant à accroître la crédibilité et la diffusion de certains travaux scientifiques.\nUn premier type de pratique consistait à faire réaliser des études par le laboratoire pharmaceutique, avec ses moyens et parfois son propre personnel, avant d’ajouter à la liste des auteurs un scientifique académique reconnu dans le domaine. Ce scientifique pouvait n’avoir joué qu’un rôle limité, voire aucun rôle réel, dans la conception ou la réalisation du travail.\nUn second type de pratique concernait la rédaction d’articles de revue ou de synthèse par des employés du laboratoire ou par des sociétés spécialisées en rédaction médicale, avant l’ajout ultérieur d’un scientifique académique comme auteur principal. Dans certains cas, les rédacteurs réels du texte n’apparaissaient nulle part dans le manuscrit.\nCes pratiques posent plusieurs problèmes : elles masquent les responsabilités réelles, créent des conflits d’intérêts parfois difficiles à identifier et contribuent à brouiller l’évaluation critique des publications.\n\nExemple documenté : le cas du Vioxx et des manuscrits rédigés par l’industrie\nUn exemple particulièrement bien documenté de ghostwriting concerne le rofécoxib (Vioxx) (Ross et al. 2008), un anti-inflammatoire commercialisé par Merck jusqu’à son retrait du marché en 2004 en raison d’effets cardiovasculaires indésirables.\nÀ la suite de procédures judiciaires, des milliers de documents internes de l’entreprise ont été rendus publics. Leur analyse a montré que des employés de l’entreprise ou des sociétés spécialisées en communication médicale rédigeaient des manuscrits scientifiques avant de recruter secondairement des chercheurs académiques pour apparaître comme auteurs des publications.\nDans certains cas, les versions préliminaires des manuscrits comportaient uniquement des auteurs affiliés à l’entreprise, alors que les versions publiées attribuaient les premières places de la liste des auteurs à des universitaires externes. L’article de Ross et al. reproduit par exemple un cas où un manuscrit rédigé initialement par des scientifiques de Merck a ensuite été publié avec des chercheurs académiques comme premiers auteurs.\nLes documents montrent également le recours à des sociétés de rédaction médicale (medical publishing companies) chargées de produire des articles de revue « clés en main ». Ces sociétés préparaient parfois des versions quasi complètes des manuscrits, géraient les révisions et les soumissions aux journaux, avant qu’un scientifique académique accepte d’en devenir l’auteur officiel.\nL’enjeu n’était pas uniquement académique. L’objectif était aussi de donner à des messages promotionnels l’apparence d’une production scientifique indépendante, en utilisant le prestige et la crédibilité de chercheurs universitaires reconnus. Ross et al. concluent ainsi que Merck avait mis en place une « stratégie systématique » visant à faciliter la publication d’articles rédigés ou pilotés par l’entreprise mais attribués à des auteurs académiques externes."
+  },
+  {
+    "objectID": "blog/posts/autorat/index.html#les-auteurs-non-contributeurs",
+    "href": "blog/posts/autorat/index.html#les-auteurs-non-contributeurs",
+    "title": "L’autorat dans les publications scientifiques",
+    "section": "Les auteurs non contributeurs",
+    "text": "Les auteurs non contributeurs\n\nLes auteurs honorifiques\nLes auteurs honorifiques (honorary authors ou gift authors) sont des personnes incluses dans la liste des auteurs sans avoir apporté de contribution scientifique suffisante pour justifier cette inclusion.\nLes motivations peuvent être variées. Dans certaines équipes, il existe une tradition d’inclure systématiquement le responsable de l’unité ou du laboratoire, indépendamment de son implication réelle dans le projet. Dans d’autres situations, un scientifique reconnu peut être ajouté afin d’augmenter les chances d’acceptation du manuscrit ou d’améliorer sa visibilité après publication.\nCes pratiques semblent particulièrement répandues. Dès la fin des années 1990, une étude publiée dans le JAMA estimait qu’environ 19 % des articles biomédicaux comportaient des auteurs honorifiques (Bhopal et al. 1997). Plus récemment, plusieurs enquêtes internationales ont rapporté des fréquences beaucoup plus élevées, certains travaux suggérant que la majorité des chercheurs ont déjà été confrontés à ce type de situation . Dans une enquête menée auprès de chercheurs en psychologie, près des deux tiers des répondants déclaraient avoir déjà participé à une étude dans laquelle une personne avait été ajoutée comme auteur sans contribution substantielle (Peuter et al. 2025).\nCes résultats suggèrent que les pratiques problématiques d’autorat ne relèvent pas uniquement de comportements individuels isolés, mais également de normes sociales ou culturelles largement répandues dans certains environnements scientifiques.\nUne difficulté importante réside également dans le fait que les critères définissant une contribution suffisante pour justifier l’autorat ne sont pas interprétés de manière uniforme. Les recommandations internationales diffèrent entre disciplines et organisations. Certaines exigent une participation à la rédaction ou à la révision critique du manuscrit, tandis que d’autres adoptent une définition plus large des contributions scientifiques.\nMême lorsque des critères existent, des notions comme « contribution substantielle » restent en partie subjectives et laissent une marge importante d’interprétation. Les chercheurs tendent par ailleurs à surestimer l’importance de leur propre contribution, ce qui peut rendre les discussions sur l’autorat particulièrement sensibles.\nCes pratiques peuvent être perçues comme anodines ou simplement « culturelles », mais elles posent plusieurs problèmes. Elles contribuent notamment à diluer la responsabilité scientifique associée à l’article et à fausser l’évaluation des contributions individuelles. Elles peuvent également créer une pression implicite sur les chercheurs plus juniors, qui peuvent avoir le sentiment qu’il est difficile de refuser certaines inclusions.\n\n\nLes auteurs achetés ou vendus\nUne forme plus récente et particulièrement préoccupante d’autorat problématique est l’achat de places d’auteur auprès de sociétés de production frauduleuse d’articles scientifiques, souvent appelées paper mills.\nLes paper mills sont des entreprises qui fabriquent ou manipulent des manuscrits scientifiques contre rémunération. Elles peuvent produire des articles entièrement falsifiés, manipuler des données ou proposer à des chercheurs d’acheter une place d’auteur sur un article en cours de soumission ou déjà accepté.\nDans ces situations, les personnes ajoutées comme auteurs n’ont généralement pas contribué au travail scientifique. L’autorat devient alors un bien marchand, acquis dans le but d’améliorer un CV, satisfaire des exigences de promotion ou répondre à des critères de publication imposés par certaines institutions. Les motivations identifiées incluent par exemple l’obligation de publier pour obtenir un diplôme, une promotion hospitalière ou un financement.\nCes pratiques présentent plusieurs particularités :\n\nles co-auteurs ne se connaissent parfois pas entre eux ;\nles manuscrits peuvent être produits à grande échelle ;\nles réseaux de co-autorat sont artificiels et transactionnels plutôt que fondés sur des collaborations scientifiques réelles ;\nles articles concernés peuvent contenir des données falsifiées ou entièrement inventées.\n\nDes travaux récents (Porter et McIntosh 2024) ont montré que ces réseaux de co-autorat artificiels laissent des signatures détectables dans les bases bibliographiques. Les auteurs impliqués présentent souvent des profils atypiques : grand nombre de publications en peu de temps, collaborations nombreuses mais peu cohérentes scientifiquement, ou réseaux de co-auteurs faiblement connectés entre eux.\nL’émergence de ces marchés de l’autorat modifie profondément la nature des problèmes d’intégrité scientifique. Il ne s’agit plus seulement de conflits locaux autour de la reconnaissance du travail, mais d’une industrialisation de la fraude scientifique à l’échelle internationale.\n\n\nLes auteurs ajoutés à leur insu\nIl arrive également que des personnes soient ajoutées à une liste d’auteurs sans avoir été consultées ni même informées de la soumission du manuscrit.\nL’objectif est généralement de bénéficier du prestige ou de la notoriété scientifique associés à ces chercheurs afin d’augmenter la crédibilité apparente du travail publié. Cette pratique est particulièrement problématique car elle engage potentiellement la responsabilité scientifique de personnes qui n’ont ni validé le contenu du manuscrit ni parfois même connaissance de son existence.\nUn exemple récent largement relayé dans la communauté scientifique concerne le médecin et chercheur américain Eric Topol. En avril 2026, celui-ci a découvert que son nom apparaissait comme co-auteur d’un article qu’il n’avait jamais vu auparavant et qu’il considérait comme probablement généré par intelligence artificielle. Dans un message publié sur LinkedIn depuis supprimé, il indiquait n’avoir eu aucune implication dans ce travail et dénonçait une publication frauduleuse.\n\nL’enquête menée ensuite par Retraction Watch a montré que plusieurs autres scientifiques prestigieux listés comme co-auteurs avaient également été usurpés et découvraient l’existence de l’article après sa publication. Plusieurs erreurs dans les noms ou affiliations suggéraient par ailleurs que les identités avaient été reconstituées à partir d’informations publiques disponibles en ligne. Peu après la médiatisation de l’affaire, le site de la revue et celui de l’éditeur ont disparu du web.\nLes motivations exactes de cette fraude ne sont pas connues publiquement. Une hypothèse plausible est qu’il s’agissait d’utiliser les noms de chercheurs reconnus afin de donner une apparence de légitimité scientifique à une revue potentiellement prédatrice ou frauduleuse. Cette affaire illustre l’émergence de nouvelles formes de fraude scientifique facilitées par les outils de génération automatique de texte et par certains circuits éditoriaux peu contrôlés.\nCertaines revues demandent désormais explicitement que tous les auteurs confirment individuellement leur accord avant publication afin de limiter ce type de situation."
+  },
+  {
+    "objectID": "blog/posts/autorat/index.html#transparence",
+    "href": "blog/posts/autorat/index.html#transparence",
+    "title": "L’autorat dans les publications scientifiques",
+    "section": "Transparence",
+    "text": "Transparence\nL’autorat doit refléter de manière transparente la manière dont le travail scientifique a été réalisé. Cela implique que les contributions des différents participants soient explicitées et discutées ouvertement au sein de l’équipe.\nLa transparence concerne également les intérêts susceptibles d’influencer le travail scientifique. Les pratiques d’auteurs fantômes sont problématiques précisément parce qu’elles masquent l’origine réelle de certaines contributions ou de certains messages scientifiques.\nDans cette perspective, la description détaillée des contributions individuelles, par exemple via la taxonomie CRediT, constitue un moyen d’améliorer la lisibilité et la transparence des publications."
+  },
+  {
+    "objectID": "blog/posts/autorat/index.html#crédit",
+    "href": "blog/posts/autorat/index.html#crédit",
+    "title": "L’autorat dans les publications scientifiques",
+    "section": "Crédit",
+    "text": "Crédit\nL’autorat est un mécanisme d’attribution du crédit scientifique. Être auteur signifie qu’une personne reçoit une reconnaissance pour sa contribution intellectuelle ou scientifique au travail publié.\nCependant, la question de ce qui mérite réellement un crédit d’autorat reste souvent débattue. Les pratiques et les attentes varient fortement selon les disciplines, les équipes et les contextes scientifiques. Les notions de « contribution substantielle » ou d’« implication suffisante » laissent une part importante d’interprétation.\nL’un des enjeux majeurs est donc de reconnaître de manière juste les différentes formes de contribution à la recherche, y compris dans des projets impliquant des compétences très diverses (analyse statistique, développement méthodologique, gestion des données, développement logiciel, expertise de terrain, etc.)."
+  },
+  {
+    "objectID": "blog/posts/autorat/index.html#responsabilité",
+    "href": "blog/posts/autorat/index.html#responsabilité",
+    "title": "L’autorat dans les publications scientifiques",
+    "section": "Responsabilité",
+    "text": "Responsabilité\nL’autorat n’est pas uniquement une récompense : il implique également une responsabilité vis-à-vis du contenu publié. Un auteur doit pouvoir répondre de l’intégrité et de la fiabilité des contributions qu’il apporte au travail scientifique.\nCette idée est résumée par une formule fréquemment reprise dans la littérature sur l’intégrité scientifique : le crédit scientifique et la responsabilité sont les deux faces d’une même pièce.\nLes auteurs honorifiques sont problématiques précisément parce qu’ils reçoivent le crédit associé à la publication sans pouvoir réellement assumer la responsabilité scientifique du travail. À l’inverse, les auteurs fantômes contribuent au travail sans apparaître dans la publication, ce qui empêche d’identifier clairement les responsabilités associées au contenu publié.\nCes trois principes — transparence, crédit et responsabilité — ne permettent pas toujours de résoudre automatiquement les situations complexes, mais ils fournissent un cadre utile pour réfléchir collectivement aux décisions d’autorat et pour discuter des contributions de manière plus explicite et plus équitable."
   }
 ]

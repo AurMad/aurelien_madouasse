@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.26">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Aurélien Madouasse">
+
+<title>L’autorat dans les publications scientifiques – Aurélien Madouasse</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-f7ac19f99b1bffdb182407b6a99bda4a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Aurélien Madouasse</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Accueil</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../enseignement/enseignement.html"> 
+<span class="menu-text">Enseignement</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../recherche/recherche.html"> 
+<span class="menu-text">Recherche</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app/profile/aurelien-madouasse.bsky.social" rel="me"> 
+<span class="menu-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" style="font-size: 1.1em;" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Bluesky"></iconify-icon></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=sr4gTeMAAAAJ&amp;hl=en" rel="me"> 
+<span class="menu-text"><iconify-icon role="img" inline="" icon="fa6-brands:google-scholar" style="font-size: 1.1em;" aria-label="Icon google-scholar from fa6-brands Iconify.design set." title="Scholar"></iconify-icon></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://github.com/AurMad" rel="me"> 
+<span class="menu-text"><iconify-icon role="img" inline="" icon="bi:github" style="font-size: 1.1em;" aria-label="Icon github from bi Iconify.design set." title="GitHub"></iconify-icon></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.linkedin.com/in/aur%C3%A9lien-madouasse-83b577142/" rel="me"> 
+<span class="menu-text"><iconify-icon role="img" inline="" icon="bi:linkedin" style="font-size: 1.1em;" aria-label="Icon linkedin from bi Iconify.design set." title="LinkedIn"></iconify-icon></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">L’autorat dans les publications scientifiques</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">intégrité scientifique</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Auteur·rice</div>
+      <div class="quarto-title-meta-contents">
+               <p>Aurélien </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Date de publication</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">11 mai 2026</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#pratiques-problématiques-autour-de-lautorat" id="toc-pratiques-problématiques-autour-de-lautorat" class="nav-link" data-scroll-target="#pratiques-problématiques-autour-de-lautorat">Pratiques problématiques autour de l’autorat</a>
+  <ul class="collapse">
+  <li><a href="#les-contributeurs-invisibles" id="toc-les-contributeurs-invisibles" class="nav-link" data-scroll-target="#les-contributeurs-invisibles">Les contributeurs invisibles</a>
+  <ul class="collapse">
+  <li><a href="#les-auteurs-omis-injustement" id="toc-les-auteurs-omis-injustement" class="nav-link" data-scroll-target="#les-auteurs-omis-injustement">Les auteurs omis injustement</a></li>
+  <li><a href="#les-auteurs-fantômes" id="toc-les-auteurs-fantômes" class="nav-link" data-scroll-target="#les-auteurs-fantômes">Les auteurs fantômes</a></li>
+  </ul></li>
+  <li><a href="#les-auteurs-non-contributeurs" id="toc-les-auteurs-non-contributeurs" class="nav-link" data-scroll-target="#les-auteurs-non-contributeurs">Les auteurs non contributeurs</a>
+  <ul class="collapse">
+  <li><a href="#les-auteurs-honorifiques" id="toc-les-auteurs-honorifiques" class="nav-link" data-scroll-target="#les-auteurs-honorifiques">Les auteurs honorifiques</a></li>
+  <li><a href="#les-auteurs-achetés-ou-vendus" id="toc-les-auteurs-achetés-ou-vendus" class="nav-link" data-scroll-target="#les-auteurs-achetés-ou-vendus">Les auteurs achetés ou vendus</a></li>
+  <li><a href="#les-auteurs-ajoutés-à-leur-insu" id="toc-les-auteurs-ajoutés-à-leur-insu" class="nav-link" data-scroll-target="#les-auteurs-ajoutés-à-leur-insu">Les auteurs ajoutés à leur insu</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#les-principes-qui-sous-tendent-lautorat-scientifique" id="toc-les-principes-qui-sous-tendent-lautorat-scientifique" class="nav-link" data-scroll-target="#les-principes-qui-sous-tendent-lautorat-scientifique">Les principes qui sous-tendent l’autorat scientifique</a>
+  <ul class="collapse">
+  <li><a href="#transparence" id="toc-transparence" class="nav-link" data-scroll-target="#transparence">Transparence</a></li>
+  <li><a href="#crédit" id="toc-crédit" class="nav-link" data-scroll-target="#crédit">Crédit</a></li>
+  <li><a href="#responsabilité" id="toc-responsabilité" class="nav-link" data-scroll-target="#responsabilité">Responsabilité</a></li>
+  </ul></li>
+  <li><a href="#traduction-pratique-critères-et-recommandations" id="toc-traduction-pratique-critères-et-recommandations" class="nav-link" data-scroll-target="#traduction-pratique-critères-et-recommandations">Traduction pratique : critères et recommandations</a></li>
+  <li><a href="#quelques-principes-et-règles-pratiques-pour-limiter-les-conflits-autour-de-lautorat" id="toc-quelques-principes-et-règles-pratiques-pour-limiter-les-conflits-autour-de-lautorat" class="nav-link" data-scroll-target="#quelques-principes-et-règles-pratiques-pour-limiter-les-conflits-autour-de-lautorat">Quelques principes et règles pratiques pour limiter les conflits autour de l’autorat</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<p>Être auteur d’un article scientifique constitue à la fois la reconnaissance d’un travail accompli, un élément essentiel de la carrière académique et une manière de contribuer à la production des connaissances. Les publications jouent un rôle central dans l’évaluation des chercheurs, l’obtention de financements, le recrutement ou encore les promotions. La question de l’autorat dépasse donc largement une simple formalité administrative : elle touche à la reconnaissance du travail scientifique, à la responsabilité des résultats publiés et à l’intégrité de la recherche.</p>
+<p>Les articles scientifiques comportent aujourd’hui le plus souvent plusieurs auteurs, parfois plusieurs dizaines voire plusieurs centaines dans certaines disciplines. L’ordre dans lequel ces auteurs apparaissent dépend de conventions qui varient selon les champs scientifiques. En sciences de la vie, les places de premier et de dernier auteur ont généralement une importance particulière. Le premier auteur est habituellement la personne ayant réalisé la plus grande partie du travail expérimental ou analytique et ayant rédigé la première version du manuscrit. Le dernier auteur correspond souvent au responsable scientifique du projet ou à la personne ayant supervisé les travaux et obtenu les financements. Entre ces deux positions, l’ordre des autres auteurs reflète en principe l’importance relative des contributions, même si les usages sont très variables.</p>
+<p>Dans d’autres disciplines, notamment en mathématiques ou en physique théorique, l’ordre alphabétique peut être privilégié. Certaines grandes collaborations utilisent même des listes d’auteurs extrêmement longues où les contributions individuelles sont difficiles à identifier. Ces différences disciplinaires expliquent en partie pourquoi les discussions autour de l’autorat peuvent être complexes.</p>
+<p>Les pratiques d’inclusion des co-auteurs varient non seulement entre disciplines, mais aussi entre institutions, équipes ou projets. Les problèmes liés à l’autorat constituent une source fréquente de tensions, de frustrations et parfois de conflits ouverts dans les laboratoires. Ces conflits peuvent concerner l’inclusion ou l’exclusion de certaines personnes, l’ordre des auteurs, ou encore la reconnaissance du travail technique, statistique ou méthodologique.</p>
+<p>Les objectifs de ce document sont de faire le point sur les principales problématiques liées à l’autorat, de présenter les règles et recommandations existantes, et de proposer quelques principes pratiques permettant de limiter les conflits et les pratiques problématiques.</p>
+</section>
+<section id="pratiques-problématiques-autour-de-lautorat" class="level1">
+<h1>Pratiques problématiques autour de l’autorat</h1>
+<p>Les problèmes liés à l’autorat peuvent prendre des formes variées. On peut néanmoins les subdiviser en deux grandes catégories.</p>
+<p>La première correspond aux situations dans lesquelles des personnes ayant contribué de manière substantielle au travail ne figurent pas dans la liste des auteurs. Ces situations relèvent d’une invisibilisation du travail scientifique et peuvent avoir des conséquences importantes en termes de reconnaissance académique et de carrière. Elles peuvent également servir à masquer l’origine réelle d’un message scientifique ou d’une stratégie de communication.</p>
+<p>La seconde catégorie correspond à l’inclusion comme auteurs de personnes qui ne remplissent pas réellement les critères de l’autorat scientifique. Cette pratique peut contribuer à diluer les responsabilités et à fausser l’évaluation des contributions scientifiques.</p>
+<p>Ces deux grandes catégories se subdivisent elles-mêmes en plusieurs situations que nous allons détailler ci-dessous.</p>
+<section id="les-contributeurs-invisibles" class="level2">
+<h2 class="anchored" data-anchor-id="les-contributeurs-invisibles">Les contributeurs invisibles</h2>
+<section id="les-auteurs-omis-injustement" class="level3">
+<h3 class="anchored" data-anchor-id="les-auteurs-omis-injustement">Les auteurs omis injustement</h3>
+<p>Un motif fréquent de frustration et de conflit dans les laboratoires est la non-inclusion de contributeurs importants dans la liste des auteurs d’une publication. Cette situation peut résulter d’un désaccord sur l’importance réelle de la contribution, mais aussi d’un manque de discussion explicite au début du projet.</p>
+<p>Les personnes concernées sont souvent des doctorants, post-doctorants, ingénieurs, biostatisticiens ou collaborateurs techniques ayant participé de manière substantielle à la collecte, l’analyse ou l’interprétation des données. Les situations deviennent particulièrement problématiques lorsque les règles implicites de fonctionnement diffèrent entre les membres d’une même équipe ou entre partenaires de collaborations multicentriques.</p>
+<p>L’absence de clarification précoce des règles d’autorat est un facteur majeur de conflits. Discuter des critères d’inclusion et de l’ordre des auteurs dès le début d’un projet ne garantit pas l’absence de désaccord, mais permet souvent de limiter les incompréhensions ultérieures.</p>
+</section>
+<section id="les-auteurs-fantômes" class="level3">
+<h3 class="anchored" data-anchor-id="les-auteurs-fantômes">Les auteurs fantômes</h3>
+<p>Le terme d’« auteur fantôme » (ghost author) désigne généralement une personne ayant contribué de manière importante à un article sans être mentionnée comme auteur.</p>
+<p>Certaines affaires médiatisées ont concerné l’industrie pharmaceutique, notamment aux États-Unis, où des procédures judiciaires ont conduit à la divulgation de correspondances internes. Ces documents ont montré l’existence de stratégies de rédaction visant à accroître la crédibilité et la diffusion de certains travaux scientifiques.</p>
+<p>Un premier type de pratique consistait à faire réaliser des études par le laboratoire pharmaceutique, avec ses moyens et parfois son propre personnel, avant d’ajouter à la liste des auteurs un scientifique académique reconnu dans le domaine. Ce scientifique pouvait n’avoir joué qu’un rôle limité, voire aucun rôle réel, dans la conception ou la réalisation du travail.</p>
+<p>Un second type de pratique concernait la rédaction d’articles de revue ou de synthèse par des employés du laboratoire ou par des sociétés spécialisées en rédaction médicale, avant l’ajout ultérieur d’un scientifique académique comme auteur principal. Dans certains cas, les rédacteurs réels du texte n’apparaissaient nulle part dans le manuscrit.</p>
+<p>Ces pratiques posent plusieurs problèmes : elles masquent les responsabilités réelles, créent des conflits d’intérêts parfois difficiles à identifier et contribuent à brouiller l’évaluation critique des publications.</p>
+<section id="exemple-documenté-le-cas-du-vioxx-et-des-manuscrits-rédigés-par-lindustrie" class="level4">
+<h4 class="anchored" data-anchor-id="exemple-documenté-le-cas-du-vioxx-et-des-manuscrits-rédigés-par-lindustrie">Exemple documenté : le cas du Vioxx et des manuscrits rédigés par l’industrie</h4>
+<p>Un exemple particulièrement bien documenté de ghostwriting concerne le rofécoxib (Vioxx) <span class="citation" data-cites="ross2008">(<a href="#ref-ross2008" role="doc-biblioref">Ross et al. 2008</a>)</span>, un anti-inflammatoire commercialisé par Merck jusqu’à son retrait du marché en 2004 en raison d’effets cardiovasculaires indésirables.</p>
+<p>À la suite de procédures judiciaires, des milliers de documents internes de l’entreprise ont été rendus publics. Leur analyse a montré que des employés de l’entreprise ou des sociétés spécialisées en communication médicale rédigeaient des manuscrits scientifiques avant de recruter secondairement des chercheurs académiques pour apparaître comme auteurs des publications.</p>
+<p>Dans certains cas, les versions préliminaires des manuscrits comportaient uniquement des auteurs affiliés à l’entreprise, alors que les versions publiées attribuaient les premières places de la liste des auteurs à des universitaires externes. L’article de Ross et al.&nbsp;reproduit par exemple un cas où un manuscrit rédigé initialement par des scientifiques de Merck a ensuite été publié avec des chercheurs académiques comme premiers auteurs.</p>
+<p>Les documents montrent également le recours à des sociétés de rédaction médicale (medical publishing companies) chargées de produire des articles de revue « clés en main ». Ces sociétés préparaient parfois des versions quasi complètes des manuscrits, géraient les révisions et les soumissions aux journaux, avant qu’un scientifique académique accepte d’en devenir l’auteur officiel.</p>
+<p>L’enjeu n’était pas uniquement académique. L’objectif était aussi de donner à des messages promotionnels l’apparence d’une production scientifique indépendante, en utilisant le prestige et la crédibilité de chercheurs universitaires reconnus. Ross et al.&nbsp;concluent ainsi que Merck avait mis en place une « stratégie systématique » visant à faciliter la publication d’articles rédigés ou pilotés par l’entreprise mais attribués à des auteurs académiques externes.</p>
+</section>
+</section>
+</section>
+<section id="les-auteurs-non-contributeurs" class="level2">
+<h2 class="anchored" data-anchor-id="les-auteurs-non-contributeurs">Les auteurs non contributeurs</h2>
+<section id="les-auteurs-honorifiques" class="level3">
+<h3 class="anchored" data-anchor-id="les-auteurs-honorifiques">Les auteurs honorifiques</h3>
+<p>Les auteurs honorifiques (<em>honorary authors</em> ou <em>gift authors</em>) sont des personnes incluses dans la liste des auteurs sans avoir apporté de contribution scientifique suffisante pour justifier cette inclusion.</p>
+<p>Les motivations peuvent être variées. Dans certaines équipes, il existe une tradition d’inclure systématiquement le responsable de l’unité ou du laboratoire, indépendamment de son implication réelle dans le projet. Dans d’autres situations, un scientifique reconnu peut être ajouté afin d’augmenter les chances d’acceptation du manuscrit ou d’améliorer sa visibilité après publication.</p>
+<p>Ces pratiques semblent particulièrement répandues. Dès la fin des années 1990, une étude publiée dans le <em>JAMA</em> estimait qu’environ 19 % des articles biomédicaux comportaient des auteurs honorifiques <span class="citation" data-cites="bhopal1997">(<a href="#ref-bhopal1997" role="doc-biblioref">Bhopal et al. 1997</a>)</span>. Plus récemment, plusieurs enquêtes internationales ont rapporté des fréquences beaucoup plus élevées, certains travaux suggérant que la majorité des chercheurs ont déjà été confrontés à ce type de situation . Dans une enquête menée auprès de chercheurs en psychologie, près des deux tiers des répondants déclaraient avoir déjà participé à une étude dans laquelle une personne avait été ajoutée comme auteur sans contribution substantielle <span class="citation" data-cites="peuter2025">(<a href="#ref-peuter2025" role="doc-biblioref">Peuter et al. 2025</a>)</span>.</p>
+<p>Ces résultats suggèrent que les pratiques problématiques d’autorat ne relèvent pas uniquement de comportements individuels isolés, mais également de normes sociales ou culturelles largement répandues dans certains environnements scientifiques.</p>
+<p>Une difficulté importante réside également dans le fait que les critères définissant une contribution suffisante pour justifier l’autorat ne sont pas interprétés de manière uniforme. Les recommandations internationales diffèrent entre disciplines et organisations. Certaines exigent une participation à la rédaction ou à la révision critique du manuscrit, tandis que d’autres adoptent une définition plus large des contributions scientifiques.</p>
+<p>Même lorsque des critères existent, des notions comme « contribution substantielle » restent en partie subjectives et laissent une marge importante d’interprétation. Les chercheurs tendent par ailleurs à surestimer l’importance de leur propre contribution, ce qui peut rendre les discussions sur l’autorat particulièrement sensibles.</p>
+<p>Ces pratiques peuvent être perçues comme anodines ou simplement « culturelles », mais elles posent plusieurs problèmes. Elles contribuent notamment à diluer la responsabilité scientifique associée à l’article et à fausser l’évaluation des contributions individuelles. Elles peuvent également créer une pression implicite sur les chercheurs plus juniors, qui peuvent avoir le sentiment qu’il est difficile de refuser certaines inclusions.</p>
+</section>
+<section id="les-auteurs-achetés-ou-vendus" class="level3">
+<h3 class="anchored" data-anchor-id="les-auteurs-achetés-ou-vendus">Les auteurs achetés ou vendus</h3>
+<p>Une forme plus récente et particulièrement préoccupante d’autorat problématique est l’achat de places d’auteur auprès de sociétés de production frauduleuse d’articles scientifiques, souvent appelées paper mills.</p>
+<p>Les paper mills sont des entreprises qui fabriquent ou manipulent des manuscrits scientifiques contre rémunération. Elles peuvent produire des articles entièrement falsifiés, manipuler des données ou proposer à des chercheurs d’acheter une place d’auteur sur un article en cours de soumission ou déjà accepté.</p>
+<p>Dans ces situations, les personnes ajoutées comme auteurs n’ont généralement pas contribué au travail scientifique. L’autorat devient alors un bien marchand, acquis dans le but d’améliorer un CV, satisfaire des exigences de promotion ou répondre à des critères de publication imposés par certaines institutions. Les motivations identifiées incluent par exemple l’obligation de publier pour obtenir un diplôme, une promotion hospitalière ou un financement.</p>
+<p>Ces pratiques présentent plusieurs particularités :</p>
+<ul>
+<li>les co-auteurs ne se connaissent parfois pas entre eux ;</li>
+<li>les manuscrits peuvent être produits à grande échelle ;</li>
+<li>les réseaux de co-autorat sont artificiels et transactionnels plutôt que fondés sur des collaborations scientifiques réelles ;</li>
+<li>les articles concernés peuvent contenir des données falsifiées ou entièrement inventées.</li>
+</ul>
+<p>Des travaux récents <span class="citation" data-cites="porter2024">(<a href="#ref-porter2024" role="doc-biblioref">Porter et McIntosh 2024</a>)</span> ont montré que ces réseaux de co-autorat artificiels laissent des signatures détectables dans les bases bibliographiques. Les auteurs impliqués présentent souvent des profils atypiques : grand nombre de publications en peu de temps, collaborations nombreuses mais peu cohérentes scientifiquement, ou réseaux de co-auteurs faiblement connectés entre eux.</p>
+<p>L’émergence de ces marchés de l’autorat modifie profondément la nature des problèmes d’intégrité scientifique. Il ne s’agit plus seulement de conflits locaux autour de la reconnaissance du travail, mais d’une industrialisation de la fraude scientifique à l’échelle internationale.</p>
+</section>
+<section id="les-auteurs-ajoutés-à-leur-insu" class="level3">
+<h3 class="anchored" data-anchor-id="les-auteurs-ajoutés-à-leur-insu">Les auteurs ajoutés à leur insu</h3>
+<p>Il arrive également que des personnes soient ajoutées à une liste d’auteurs sans avoir été consultées ni même informées de la soumission du manuscrit.</p>
+<p>L’objectif est généralement de bénéficier du prestige ou de la notoriété scientifique associés à ces chercheurs afin d’augmenter la crédibilité apparente du travail publié. Cette pratique est particulièrement problématique car elle engage potentiellement la responsabilité scientifique de personnes qui n’ont ni validé le contenu du manuscrit ni parfois même connaissance de son existence.</p>
+<p>Un exemple récent largement relayé dans la communauté scientifique concerne le médecin et chercheur américain Eric Topol. En avril 2026, celui-ci a découvert que son nom apparaissait comme co-auteur d’un article qu’il n’avait jamais vu auparavant et qu’il considérait comme probablement généré par intelligence artificielle. Dans un message publié sur LinkedIn depuis supprimé, il indiquait n’avoir eu aucune implication dans ce travail et dénonçait une publication frauduleuse.</p>
+<p>L’<a href="https://retractionwatch.com/2026/04/23/eric-topol-ellinger-publishing-media-journal-digital-health-impersonation/">enquête menée ensuite par Retraction Watch</a> a montré que plusieurs autres scientifiques prestigieux listés comme co-auteurs avaient également été usurpés et découvraient l’existence de l’article après sa publication. Plusieurs erreurs dans les noms ou affiliations suggéraient par ailleurs que les identités avaient été reconstituées à partir d’informations publiques disponibles en ligne. Peu après la médiatisation de l’affaire, le site de la revue et celui de l’éditeur ont disparu du web.</p>
+<p>Les motivations exactes de cette fraude ne sont pas connues publiquement. Une hypothèse plausible est qu’il s’agissait d’utiliser les noms de chercheurs reconnus afin de donner une apparence de légitimité scientifique à une revue potentiellement prédatrice ou frauduleuse. Cette affaire illustre l’émergence de nouvelles formes de fraude scientifique facilitées par les outils de génération automatique de texte et par certains circuits éditoriaux peu contrôlés.</p>
+<p>Certaines revues demandent désormais explicitement que tous les auteurs confirment individuellement leur accord avant publication afin de limiter ce type de situation.</p>
+</section>
+</section>
+</section>
+<section id="les-principes-qui-sous-tendent-lautorat-scientifique" class="level1">
+<h1>Les principes qui sous-tendent l’autorat scientifique</h1>
+<p>Les discussions sur l’autorat se focalisent souvent sur des listes de critères permettant de décider qui doit ou non être auteur. Ces critères sont utiles, mais ils ne suffisent pas toujours à résoudre les situations concrètes rencontrées dans les projets de recherche contemporains, qui impliquent souvent des collaborations multidisciplinaires, multicentriques ou de grande taille.</p>
+<p>Plusieurs auteurs ont ainsi proposé de replacer les règles d’autorat dans un cadre plus général fondé sur quelques principes directeurs. Un article récent publié dans les Proceedings of the National Academy of Sciences <span class="citation" data-cites="kiermer2026">(<a href="#ref-kiermer2026" role="doc-biblioref">Kiermer et al. 2026</a>)</span> propose notamment d’ancrer les pratiques d’autorat autour de trois principes interdépendants : la transparence, le crédit et la responsabilité (accountability).</p>
+<p>Ces trois principes permettent de mieux comprendre pourquoi certaines pratiques d’autorat sont problématiques et fournissent un cadre de réflexion utile dans les situations ambiguës ou conflictuelles.</p>
+<section id="transparence" class="level2">
+<h2 class="anchored" data-anchor-id="transparence">Transparence</h2>
+<p>L’autorat doit refléter de manière transparente la manière dont le travail scientifique a été réalisé. Cela implique que les contributions des différents participants soient explicitées et discutées ouvertement au sein de l’équipe.</p>
+<p>La transparence concerne également les intérêts susceptibles d’influencer le travail scientifique. Les pratiques d’auteurs fantômes sont problématiques précisément parce qu’elles masquent l’origine réelle de certaines contributions ou de certains messages scientifiques.</p>
+<p>Dans cette perspective, la description détaillée des contributions individuelles, par exemple via la taxonomie CRediT, constitue un moyen d’améliorer la lisibilité et la transparence des publications.</p>
+</section>
+<section id="crédit" class="level2">
+<h2 class="anchored" data-anchor-id="crédit">Crédit</h2>
+<p>L’autorat est un mécanisme d’attribution du crédit scientifique. Être auteur signifie qu’une personne reçoit une reconnaissance pour sa contribution intellectuelle ou scientifique au travail publié.</p>
+<p>Cependant, la question de ce qui mérite réellement un crédit d’autorat reste souvent débattue. Les pratiques et les attentes varient fortement selon les disciplines, les équipes et les contextes scientifiques. Les notions de « contribution substantielle » ou d’« implication suffisante » laissent une part importante d’interprétation.</p>
+<p>L’un des enjeux majeurs est donc de reconnaître de manière juste les différentes formes de contribution à la recherche, y compris dans des projets impliquant des compétences très diverses (analyse statistique, développement méthodologique, gestion des données, développement logiciel, expertise de terrain, etc.).</p>
+</section>
+<section id="responsabilité" class="level2">
+<h2 class="anchored" data-anchor-id="responsabilité">Responsabilité</h2>
+<p>L’autorat n’est pas uniquement une récompense : il implique également une responsabilité vis-à-vis du contenu publié. Un auteur doit pouvoir répondre de l’intégrité et de la fiabilité des contributions qu’il apporte au travail scientifique.</p>
+<p>Cette idée est résumée par une formule fréquemment reprise dans la littérature sur l’intégrité scientifique : le crédit scientifique et la responsabilité sont les deux faces d’une même pièce.</p>
+<p>Les auteurs honorifiques sont problématiques précisément parce qu’ils reçoivent le crédit associé à la publication sans pouvoir réellement assumer la responsabilité scientifique du travail. À l’inverse, les auteurs fantômes contribuent au travail sans apparaître dans la publication, ce qui empêche d’identifier clairement les responsabilités associées au contenu publié.</p>
+<p>Ces trois principes — transparence, crédit et responsabilité — ne permettent pas toujours de résoudre automatiquement les situations complexes, mais ils fournissent un cadre utile pour réfléchir collectivement aux décisions d’autorat et pour discuter des contributions de manière plus explicite et plus équitable.</p>
+</section>
+</section>
+<section id="traduction-pratique-critères-et-recommandations" class="level1">
+<h1>Traduction pratique : critères et recommandations</h1>
+<p>Les principes de transparence, de crédit et de responsabilité fournissent un cadre général pour réfléchir à l’autorat scientifique. En pratique, plusieurs organisations ont proposé des recommandations plus opérationnelles visant à aider les équipes de recherche et les revues scientifiques à déterminer qui doit être auteur d’une publication. Les recommandations les plus utilisées concernant l’autorat sont celles de l’International Committee of Medical Journal Editors (<a href="https://www.icmje.org/recommendations/">ICMJE</a>), largement adoptées dans les sciences biomédicales. Selon ces recommandations, un auteur doit remplir les quatre conditions suivantes :</p>
+<ol type="1">
+<li>Des contributions importantes à la conception ou à la planification du travail ; ou à l’acquisition, l’analyse ou l’interprétation des données ; ET</li>
+<li>La rédaction du travail ou sa révision critique pour un contenu intellectuel important ; ET</li>
+<li>L’approbation finale de la version à publier ; ET</li>
+<li>L’engagement à assumer la responsabilité de tous les aspects du travail, en veillant à ce que toute question relative à l’exactitude ou à l’intégrité de toute partie du travail soit examinée et résolue de manière appropriée.</li>
+</ol>
+<p>Ces critères ont l’avantage de rappeler qu’être auteur ne correspond pas uniquement à avoir participé techniquement à un projet : l’autorat implique également une participation intellectuelle et une responsabilité vis-à-vis du contenu publié.</p>
+<p>Ces recommandations sont cependant parfois perçues comme restrictives. Dans les projets interdisciplinaires complexes, certaines personnes peuvent avoir une contribution essentielle mais circonscrite à un aspect précis du travail, par exemple une analyse statistique, le développement d’un outil méthodologique ou la constitution d’une base de données. Les frontières entre contribution suffisante pour l’autorat et contribution relevant plutôt des remerciements peuvent alors devenir difficiles à tracer.</p>
+<p>Pour répondre en partie à cette difficulté, de nombreuses revues demandent désormais une description détaillée des contributions individuelles des auteurs (contributorship). La taxonomie CRediT (Contributor Roles Taxonomy) propose par exemple une liste standardisée de rôles possibles : conceptualisation, analyse formelle, collecte des données, supervision, rédaction, financement, etc. Ces approches permettent de mieux rendre visibles les différentes formes de contribution au travail scientifique.</p>
+<p>Au-delà de leur intérêt descriptif, ces taxonomies de contribution pourraient également contribuer à faire évoluer les pratiques d’autorat elles-mêmes. Plusieurs auteurs recommandent ainsi de systématiser l’utilisation de déclarations structurées de contribution dans les publications scientifiques <span class="citation" data-cites="brand2015">(<a href="#ref-brand2015" role="doc-biblioref">Brand et al. 2015</a>)</span> <span class="citation" data-cites="holcombe2019">(<a href="#ref-holcombe2019" role="doc-biblioref">Holcombe 2019</a>)</span>.</p>
+<p>L’objectif est double. D’une part, mieux reconnaître la diversité des contributions nécessaires à la recherche contemporaine. Les projets scientifiques impliquent aujourd’hui des compétences très variées : analyse statistique, développement logiciel, gestion et curation des données, méthodologie, supervision, administration de projet ou acquisition de financements. Ces contributions sont souvent difficiles à identifier à partir de la seule liste ordonnée des auteurs <span class="citation" data-cites="brand2015">(<a href="#ref-brand2015" role="doc-biblioref">Brand et al. 2015</a>)</span> .</p>
+<p>D’autre part, ces approches visent à améliorer la transparence et à limiter certains conflits ou ambiguïtés autour de l’autorat. La déclaration explicite des rôles de chacun permet de mieux comprendre qui a contribué à quoi et peut contribuer à réduire les pratiques d’autorat honorifique.</p>
+<p>La taxonomie <a href="https://credit.niso.org/">CRediT</a> (<em>Contributor Roles Taxonomy</em>) constitue aujourd’hui l’approche la plus largement diffusée. Elle propose une liste standardisée de rôles contributifs tels que :</p>
+<ul>
+<li><p>conceptualisation ;</p></li>
+<li><p>méthodologie ;</p></li>
+<li><p>analyse formelle ;</p></li>
+<li><p>développement logiciel ;</p></li>
+<li><p>investigation ;</p></li>
+<li><p>curation des données ;</p></li>
+<li><p>rédaction de la première version ;</p></li>
+<li><p>révision critique ;</p></li>
+<li><p>supervision ;</p></li>
+<li><p>administration du projet ;</p></li>
+<li><p>acquisition des financements.</p></li>
+</ul>
+<p>Plusieurs dizaines d’éditeurs scientifiques ont déjà adopté ou intégré cette taxonomie dans leurs systèmes de soumission. Certains auteurs vont plus loin et proposent de passer progressivement d’une logique d’« authorship » à une logique de « contributorship », dans laquelle l’accent serait davantage mis sur les contributions effectives que sur la seule présence dans une liste d’auteurs.</p>
+<p>Même si ces approches ne résolvent pas automatiquement toutes les difficultés — notamment la question de ce qui constitue une contribution suffisamment importante — elles offrent un cadre plus transparent et plus adapté aux collaborations scientifiques contemporaines.</p>
+</section>
+<section id="quelques-principes-et-règles-pratiques-pour-limiter-les-conflits-autour-de-lautorat" class="level1">
+<h1>Quelques principes et règles pratiques pour limiter les conflits autour de l’autorat</h1>
+<p>Même en présence de recommandations internationales, les situations concrètes restent souvent complexes. Quelques règles simples peuvent permettre de limiter les conflits autour de l’autorat :</p>
+<ul>
+<li>discuter des critères d’autorat dès le début du projet ;</li>
+<li>expliciter les contributions attendues de chacun, par exemple en s’appuyant sur la taxonomie CRediT ;</li>
+<li>rediscuter régulièrement de la liste et de l’ordre des auteurs au cours du travail ;</li>
+<li>documenter les contributions réelles lorsque le projet évolue ;</li>
+<li>éviter les promesses implicites d’autorat ;</li>
+<li>distinguer clairement ce qui relève de l’autorat et ce qui relève des remerciements.</li>
+<li>s’assurer que tous les auteurs ont pris connaissance du manuscrit, approuvé sa soumission et accepté les responsabilités associées à l’autorat.</li>
+</ul>
+<p>Au sein d’un collectif de recherche, il est utile de formaliser ces principes et règles dans une charte de l’autorat. Un tel document permet de définir un cadre commun, connu de tous, précisant les critères d’inclusion des auteurs, les modalités de détermination de leur ordre et les responsabilités associées à l’autorat. Il peut ainsi contribuer à prévenir les désaccords et constituer une référence pour leur résolution lorsqu’ils surviennent.</p>
+</section>
+<section id="conclusion" class="level1">
+<h1>Conclusion</h1>
+<p>Les désaccords liés à l’autorat figurent parmi les causes fréquentes de saisine des référents à l’intégrité scientifique. Ils reflètent à la fois l’importance des publications dans les carrières scientifiques et l’hétérogénéité des pratiques et des représentations de ce qui justifie une place d’auteur.</p>
+<p>La prévention de ces conflits repose avant tout sur des règles explicites, connues et partagées, ainsi que sur des discussions régulières concernant les contributions de chacun. La formalisation de ces règles dans une charte d’autorat peut contribuer à instaurer des pratiques plus transparentes et équitables et fournir un cadre de référence pour résoudre les désaccords.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Les références</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-bhopal1997" class="csl-entry" role="listitem">
+Bhopal, Raj, Judith Rankin, Elaine McColl, Lois Thomas, Eileen Kaner, Rosie Stacy, Pauline Pearson, Brian Vernon, et Helen Rodgers. 1997. <span>«&nbsp;The Vexed Question of Authorship: Views of Researchers in a British Medical Faculty&nbsp;»</span>. <em>BMJ</em> 314 (7086): 1009. <a href="https://doi.org/10.1136/bmj.314.7086.1009">https://doi.org/10.1136/bmj.314.7086.1009</a>.
+</div>
+<div id="ref-brand2015" class="csl-entry" role="listitem">
+Brand, Amy, Liz Allen, Micah Altman, Marjorie Hlava, et Jo Scott. 2015. <span>«&nbsp;Beyond authorship: attribution, contribution, collaboration, and credit&nbsp;»</span>. <em>Learned Publishing</em> 28 (avril): 151‑55. <a href="https://doi.org/10.1087/20150211">https://doi.org/10.1087/20150211</a>.
+</div>
+<div id="ref-holcombe2019" class="csl-entry" role="listitem">
+Holcombe, Alex O. 2019. <span>«&nbsp;Contributorship, Not Authorship: Use CRediT to Indicate Who Did What&nbsp;»</span>. <em>Publications</em> 7 (3). <a href="https://doi.org/10.3390/publications7030048">https://doi.org/10.3390/publications7030048</a>.
+</div>
+<div id="ref-kiermer2026" class="csl-entry" role="listitem">
+Kiermer, Véronique, Sofia Adams, Kirsten Bibbins-Domingo, Yensi Flores Bueso, Kathleen Hall Jamieson, Joerg Heber, Mohammad Hosseini, et al. 2026. <span>«&nbsp;Creating a responsible authorship culture in science: Anchoring authorship practices in principles of transparency, credit, and accountability&nbsp;»</span>. <em>Proceedings of the National Academy of Sciences</em> 123 (12): e2531268123. <a href="https://doi.org/10.1073/pnas.2531268123">https://doi.org/10.1073/pnas.2531268123</a>.
+</div>
+<div id="ref-peuter2025" class="csl-entry" role="listitem">
+Peuter, Steven De, Jana Reck, Steffi Bellekens, et Gert Storms. 2025. <span>«&nbsp;Gift and Ghost Authorship and the Use of Authorship Guidelines in Psychology Journals: A Cross-Sectional Survey&nbsp;»</span>. <em>Research Ethics</em> 21 (3): 408424. <a href="https://doi.org/10.1177/17470161241262244">https://doi.org/10.1177/17470161241262244</a>.
+</div>
+<div id="ref-porter2024" class="csl-entry" role="listitem">
+Porter, Simon J., et Leslie D. McIntosh. 2024. <span>«&nbsp;Identifying Fabricated Networks Within Authorship-for-Sale Enterprises&nbsp;»</span>. <em>Scientific Reports</em> 14 (1): 29569. <a href="https://doi.org/10.1038/s41598-024-71230-8">https://doi.org/10.1038/s41598-024-71230-8</a>.
+</div>
+<div id="ref-ross2008" class="csl-entry" role="listitem">
+Ross, Joseph S., Kevin P. Hill, David S. Egilman, et Harlan M. Krumholz. 2008. <span>«&nbsp;Guest Authorship and Ghostwriting in Publications Related to Rofecoxib: A Case Study of Industry Documents From Rofecoxib Litigation&nbsp;»</span>. <em>JAMA</em> 299 (15): 1800‑1812. <a href="https://doi.org/10.1001/jama.299.15.1800">https://doi.org/10.1001/jama.299.15.1800</a>.
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copié");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copié");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

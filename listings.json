@@ -1,6 +1,8 @@
 [
   {
     "listing": "/blog/blog.html",
-    "items": []
+    "items": [
+      "/blog/posts/autorat/index.html"
+    ]
   }
 ]
